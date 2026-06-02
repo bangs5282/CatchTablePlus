@@ -1,0 +1,24 @@
+[
+  {
+    "userId": 1780362976385,
+    "restaurantId": 1,
+    "seatId": "C1",
+    "items": {
+      "1": 13,
+      "6": 10,
+      "7": 2,
+      "8": 1,
+      "9": 5
+    },
+    "totalPrice": 1169000,
+    "type": "reservation",
+    "timestamp": "2026-06-02T04:26:06.473Z",
+    "id": 1780374367316,
+    "status": "completed",
+    "paymentStatus": "paid",
+    "paymentId": 1780374434911,
+    "rating": 5,
+    "review": "",
+    "ratedAt": "2026-06-02T04:27:31.603Z"
+  }
+]

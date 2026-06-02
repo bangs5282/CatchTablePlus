@@ -1,0 +1,155 @@
+[
+  {
+    "id": "A1",
+    "type": "창가",
+    "capacity": 2,
+    "x": 8.599720105447405,
+    "y": 1.0625008975758272,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "A2",
+    "type": "창가",
+    "capacity": 2,
+    "x": 8.599736781719605,
+    "y": 30.658089132869943,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "A3",
+    "type": "창가",
+    "capacity": 2,
+    "x": 8.599720105447405,
+    "y": 61.43014795639936,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "B1",
+    "type": "일반",
+    "capacity": 4,
+    "x": 38.552339480874316,
+    "y": 0,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "B2",
+    "type": "일반",
+    "capacity": 4,
+    "x": 39.0198087431694,
+    "y": 28.77527573529412,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "B3",
+    "type": "일반",
+    "capacity": 4,
+    "x": 40.10843579234973,
+    "y": 57.904411764705884,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "C1",
+    "type": "룸",
+    "capacity": 6,
+    "x": 68,
+    "y": 20,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "C2",
+    "type": "룸",
+    "capacity": 8,
+    "x": 68,
+    "y": 55,
+    "reservations": 0,
+    "restaurantId": 1
+  },
+  {
+    "id": "S1",
+    "type": "창가",
+    "capacity": 2,
+    "x": 15,
+    "y": 15,
+    "reservations": 2,
+    "restaurantId": 2
+  },
+  {
+    "id": "S2",
+    "type": "바",
+    "capacity": 1,
+    "x": 37.10383847762978,
+    "y": 14.397057925953586,
+    "reservations": 0,
+    "restaurantId": 2
+  },
+  {
+    "id": "S3",
+    "type": "룸",
+    "capacity": 4,
+    "x": 59.33059108713286,
+    "y": 15.150734396541822,
+    "reservations": 0,
+    "restaurantId": 2
+  },
+  {
+    "id": "B1",
+    "type": "창가",
+    "capacity": 4,
+    "x": 20,
+    "y": 25,
+    "reservations": 0,
+    "restaurantId": 3
+  },
+  {
+    "id": "B2",
+    "type": "룸",
+    "capacity": 6,
+    "x": 60,
+    "y": 50,
+    "reservations": 0,
+    "restaurantId": 3
+  },
+  {
+    "id": "P1",
+    "type": "테라스",
+    "capacity": 2,
+    "x": 25,
+    "y": 30,
+    "reservations": 2,
+    "restaurantId": 4
+  },
+  {
+    "id": "P2",
+    "type": "실내",
+    "capacity": 4,
+    "x": 55,
+    "y": 35,
+    "reservations": 4,
+    "restaurantId": 4
+  },
+  {
+    "id": "C1",
+    "type": "창가",
+    "capacity": 2,
+    "x": 30,
+    "y": 20,
+    "reservations": 0,
+    "restaurantId": 5
+  },
+  {
+    "id": "C2",
+    "type": "야외",
+    "capacity": 4,
+    "x": 65,
+    "y": 45,
+    "reservations": 4,
+    "restaurantId": 5
+  }
+]

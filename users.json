@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "1234",
+    "type": "admin"
+  },
+  {
+    "id": 1774435277531,
+    "username": "bangs5282",
+    "password": "*bksh0114*",
+    "type": "customer"
+  },
+  {
+    "id": 2,
+    "username": "별빛정원식당",
+    "password": "hanwoo123",
+    "type": "restaurant_owner",
+    "restaurantId": 1
+  },
+  {
+    "id": 3,
+    "username": "우주스시랩",
+    "password": "sushi123",
+    "type": "restaurant_owner",
+    "restaurantId": 2
+  },
+  {
+    "id": 4,
+    "username": "도깨비중화당",
+    "password": "beijing123",
+    "type": "restaurant_owner",
+    "restaurantId": 3
+  },
+  {
+    "id": 5,
+    "username": "루나파스타웍스",
+    "password": "pasta123",
+    "type": "restaurant_owner",
+    "restaurantId": 4
+  },
+  {
+    "id": 6,
+    "username": "은하수카페라운지",
+    "password": "cafe123",
+    "type": "restaurant_owner",
+    "restaurantId": 5
+  },
+  {
+    "id": 7,
+    "username": "캠퍼스분식연구소",
+    "password": "bunsik123",
+    "type": "restaurant_owner",
+    "restaurantId": 6
+  },
+  {
+    "id": 1779760360580,
+    "username": "진환",
+    "password": "wlsghks"
+  },
+  {
+    "id": 1779760363718,
+    "username": "aaaa",
+    "password": "1111"
+  },
+  {
+    "id": 1780362976385,
+    "username": "광운대",
+    "password": "1234"
+  }
+]
